@@ -2,7 +2,7 @@
 
 ## I'm a Fresh Graduate, Freelance, and Programmer at [ROBOTINDO][website]!!
 
-- 🍱 I'm better at back-end developer
+- 🍱 I'm better at front-end developer
 - 🔩 But sometime handle back-end jobs 🤣
 - 🌱 I’m currently learning Laravel
 - 🎛️ Understand the basics of microcontrollers, like arduino
