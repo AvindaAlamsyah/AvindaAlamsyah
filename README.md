@@ -1,4 +1,4 @@
-### Hay hay, I'm Avinda Renaldi Alamsyah 👋😁
+### Hey hey, I'm Avinda Renaldi Alamsyah 👋😁
 
 ## I'm a Fresh Graduate, Freelance, and Programmer at [ROBOTINDO][website]!!
 
