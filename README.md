@@ -1,12 +1,12 @@
 ### Hey hey, I'm Avinda Renaldi Alamsyah 👋😁
 
-## I'm a Fresh Graduate, Freelance, and Programmer at [ROBOTINDO][website]!!
+## I'm a Programmer at [PT. TRANSCON INDONESIA][website]!!
 
-- 🍱 I'm better at front-end developer
-- 🔩 But sometime handle back-end jobs 🤣
-- 🌱 I’m currently learning Laravel
+- 🔩 Currently working on a back-end web development
+- 🔥 Familiar with Codeigniter framework
+- 🎨 But now learning Laravel 9
 - 🎛️ Understand the basics of microcontrollers, like arduino
-- 🎥 Spend free time for watching movies 😎
+- 🎥 Spend free time for watching movies
 
 ### Connect with me:
 
@@ -29,7 +29,7 @@
 <br />
 <br />
 
-[website]: https://robotindo.id/
+[website]: https://www.transcon-indonesia.id/
 [facebook]: https://www.facebook.com/avinda.alamsyahsastrohardjono/
 [instagram]: https://www.instagram.com/alamsyahsastrohardjono/
 [linkedin]: https://www.linkedin.com/in/avinda-alamsyah-4633a813a/
