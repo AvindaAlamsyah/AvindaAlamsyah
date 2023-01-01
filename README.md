@@ -1,4 +1,4 @@
-### Hey hey, I'm Avinda Renaldi Alamsyah 👋😁
+### Hey hey, I'm Avinda Renaldi Alamsyah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" height="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="22" height="22" />
 
 ## I'm a Programmer at [PT. TRANSCON INDONESIA][website]!!
 
@@ -8,7 +8,7 @@
 - 🎛️ Understand the basics of microcontrollers, like arduino
 - 🎥 Spend free time for watching movies
 
-### Connect with me:
+### Connect with me : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="22" height="22" />
 
 [<img align="left" alt="Avinda Alamsyah | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/#1877F2" />][facebook]
 [<img align="left" alt="Avinda Alamsyah | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
@@ -16,7 +16,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" />
 
 <img align="left" title="HTML5" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/#E34F26" />
 <img align="left" title="CSS3" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3/#1572B6" />
@@ -33,9 +33,15 @@
 <img align="left" title="Laravel" alt="Laravel" width="26px" src="https://cdn.simpleicons.org/laravel/#FF2D20" />
 
 <br />
+
+### Github Stats : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="22" height="22" />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvindaAlamsyah&count_private=true&show_icons=true&theme=transparent)
+
+<br />
 <br />
 
-[website]: https://www.transcon-indonesia.id/
+[website]: https://www.transcon-indonesia.com/
 [facebook]: https://www.facebook.com/avinda.alamsyahsastrohardjono/
 [instagram]: https://www.instagram.com/alamsyahsastrohardjono/
 [linkedin]: https://www.linkedin.com/in/avinda-alamsyah-4633a813a/
