@@ -1,36 +1,38 @@
 ### Hey hey, I'm Avinda Renaldi Alamsyah <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="20" height="20" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="22" height="22" />
 
-## I'm a Programmer at [PT. TRANSCON INDONESIA][website]!!
+<br />
 
-- 🔩 Currently working on a back-end web development
-- 🔥 Familiar with Codeigniter framework
-- 🎨 But now learning Laravel 9
-- 🎛️ Understand the basics of microcontrollers, like arduino
-- 🎥 Spend free time for watching movies
+I'm a Programmer at [PT. TRANSCON INDONESIA][website]. I’m a passionate back-end developer, constantly expanding my skill set with new frameworks and technologies.
+
+- 🔩 Focused on back-end web development
+- 🔥 Experienced with the CodeIgniter 3 framework
+- 🎨 Currently migrating to the Laravel framework
+- 🎛️ Knowledgeable in microcontrollers like Arduino
+- 🎥 In my free time, I enjoy watching movies
 
 ### Connect with me : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="22" height="22" />
 
-[<img align="left" alt="Avinda Alamsyah | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook/#1877F2" />][facebook]
-[<img align="left" alt="Avinda Alamsyah | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/#0A66C2" />][linkedin]
-[<img align="left" alt="Avinda Alamsyah | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/#E4405F" />][instagram]
+[<img align="left" alt="Avinda Alamsyah | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook" />][facebook]
+[<img align="left" alt="Avinda Alamsyah | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Avinda Alamsyah | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 <br />
 
 ### Languages and Tools : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="22" height="22" />
 
-<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5/#E34F26" />
-<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3/#1572B6" />
-<img align="left" title="PHP" alt="PHP" width="26px" src="https://cdn.simpleicons.org/php/#777BB4" />
-<img align="left" title="Javascript" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript/#F7DF1E" />
-<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://cdn.simpleicons.org/mysql/#4479A1" />
-<img align="left" title="Git" alt="Git" width="26px" src="https://cdn.simpleicons.org/git/#F05032" />
-<img align="left" title="Arduino" alt="Arduino" height="26px" src="https://cdn.simpleicons.org/arduino/#00979D" />
-<img align="left" title="Github" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/#181717" />
-<img align="left" title="Bitbucket" alt="Bitbucket" width="26px" src="https://cdn.simpleicons.org/bitbucket/#0052CC" />
-<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" />
-<img align="left" title="Laragon" alt="Laragon" width="26px" src="https://cdn.simpleicons.org/laragon/#0E83CD" />
-<img align="left" title="CodeIgniter" alt="CodeIgniter" width="26px" src="https://cdn.simpleicons.org/codeigniter/#EF4223" />
-<img align="left" title="Laravel" alt="Laravel" width="26px" src="https://cdn.simpleicons.org/laravel/#FF2D20" />
+<img align="left" title="HTML5" alt="HTML5" width="26px" src="https://cdn.simpleicons.org/html5" />
+<img align="left" title="CSS3" alt="CSS3" width="26px" src="https://cdn.simpleicons.org/css3" />
+<img align="left" title="PHP" alt="PHP" width="26px" src="https://cdn.simpleicons.org/php" />
+<img align="left" title="Javascript" alt="JavaScript" width="26px" src="https://cdn.simpleicons.org/javascript" />
+<img align="left" title="MySQL" alt="MySQL" width="26px" src="https://cdn.simpleicons.org/mysql/black/white" />
+<img align="left" title="Git" alt="Git" width="26px" src="https://cdn.simpleicons.org/git" />
+<img align="left" title="Arduino" alt="Arduino" height="26px" src="https://cdn.simpleicons.org/arduino" />
+<img align="left" title="Github" alt="GitHub" width="26px" src="https://cdn.simpleicons.org/github/black/white" />
+<img align="left" title="Bitbucket" alt="Bitbucket" width="26px" src="https://cdn.simpleicons.org/bitbucket" />
+<img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" />
+<img align="left" title="Laragon" alt="Laragon" width="26px" src="https://cdn.simpleicons.org/laragon" />
+<img align="left" title="CodeIgniter" alt="CodeIgniter" width="26px" src="https://cdn.simpleicons.org/codeigniter" />
+<img align="left" title="Laravel" alt="Laravel" width="26px" src="https://cdn.simpleicons.org/laravel" />
 
 <br />
 
