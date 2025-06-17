@@ -13,7 +13,7 @@ I'm a Programmer at [PT. TRANSCON INDONESIA][website]. I’m a passionate back-e
 ### Connect with me : <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="30" height="30" />
 
 [<img align="left" alt="Avinda Alamsyah | Facebook" width="22px" src="https://cdn.simpleicons.org/facebook" />][facebook]
-[<img align="left" alt="Avinda Alamsyah | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
+[<img align="left" alt="Avinda Alamsyah | LinkedIn" width="24px" src="https://img.icons8.com/?size=120&id=13930&format=png&color=000000" />][linkedin]
 [<img align="left" alt="Avinda Alamsyah | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram" />][instagram]
 
 <br />
